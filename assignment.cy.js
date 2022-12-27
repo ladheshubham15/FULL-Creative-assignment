@@ -1,4 +1,4 @@
-import * as work from '../support/work_function';
+import * as work from '../work_function';
 
 context("Trello Automation Scenarios",() => {
     // beforeEach executes before each test
